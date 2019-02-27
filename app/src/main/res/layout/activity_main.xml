@@ -9,6 +9,7 @@
         tools:context=".MainActivity">
 
     <View
+        android:id="@+id/task_2.1"
         android:background="#000000"
         android:layout_width="120dp"
         android:layout_height="wrap_content"/>
